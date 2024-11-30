@@ -1,0 +1,47 @@
+title: Orchestral River
+originalAuthor: danimalforlife
+description: |+
+  Fixes the theme songs for Timeless River; makes "Monochrome Dreams" and "Old Friends, Old Rivals" orchestral. Also changes "Rowdy Rumble" and "Desire for All That Is Lost" to their normal versions.
+
+    Original songs can be found here: https://www.youtube.com/watch?v=iEeAfzXijfE
+
+  Orchestral arrangement by Baker. Please support Bak.R
+
+  Youtube: https://www.youtube.com/@Bak.R
+
+  Patreon: https://www.patreon.com/NeverBackMusic
+
+  Twitter: https://x.com/NeverBackMusic
+
+  
+
+assets:
+
+###Monochrome Dreams###
+- name: bgm/music189.win32.scd
+  method: copy
+  source:
+   - name: bgm/music189.win32.scd
+
+
+###Old Frineds, Old Rivals###
+- name: bgm/music190.win32.scd
+  method: copy
+  source:
+   - name: bgm/music190.win32.scd
+
+
+###Rowdy Rumble###
+###Changes Rowdy Rumble from the Timeless River Version###
+- name: bgm/music517.win32.scd
+  method: copy
+  source:
+   - name: bgm/music117.win32.scd
+
+
+###Desire for All That Is Lost###
+###Changes Desire for All That Is Lost from the Timeless River Version###
+- name: bgm/music521.win32.scd
+  method: copy
+  source:
+   - name: bgm/music121.win32.scd
