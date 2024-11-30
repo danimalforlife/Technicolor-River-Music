@@ -45,3 +45,11 @@ assets:
   method: copy
   source:
    - name: bgm/music121.win32.scd
+
+
+###Background Sound###
+###Replaces the old-timey projector and scratch sounds##
+- name: se/se014.win32.scd
+  method: copy
+  source:
+   - name: se/se014.win32.scd
