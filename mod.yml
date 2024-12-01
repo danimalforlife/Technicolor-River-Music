@@ -49,6 +49,7 @@ assets:
 
 ###Background Sound###
 ###Replaces the old-timey projector and scratch sounds##
+###Sounds are removed, but new sounds don't seem to replace it? As long as the music is ran, you can't really tell###
 - name: se/se014.win32.scd
   method: copy
   source:
